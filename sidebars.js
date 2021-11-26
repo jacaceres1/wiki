@@ -69,6 +69,7 @@ module.exports = {
         { type: 'doc', id: 'information/mounts', label: 'Mounts' },
         { type: 'doc', id: 'information/titles', label: 'Titles' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options' },
+        { type: 'doc', id: 'information/items-sale-price', label: 'Items sale price' },
       ]
     },
     {

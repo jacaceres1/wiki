@@ -7,6 +7,8 @@ hide_title: true
 
 # Items Sale Price
 
+You can sell the following items to NPCs at the following prices:
+
 - Shining Green Soul: 50k
 - Shining Red Soul: 100k
 - Shining Blue Soul: 250k
