@@ -1,6 +1,6 @@
 ---
-title: Rotations - Week 2
-slug: 2021-12-04-rotations-week-1
+title: Rotations - Week 3
+slug: 2021-12-12-rotations-week-3
 authors:
   - name: Kravos
     title: Team Manager / Community Manager
@@ -8,7 +8,7 @@ authors:
 tags: [shop, rotation]
 hide_table_of_contents: false
 ---
-## Rotation
+## Rotations
 
 ### **Week 3** - **12th Dec 2021**
 - **[REMOVE]** Ninja Random Box
