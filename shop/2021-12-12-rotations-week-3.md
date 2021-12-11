@@ -17,6 +17,8 @@ hide_table_of_contents: false
 - **[NEW]** 'Doni Darkslide' Skateboard Random Box
 - **[REMOVE]** Fairy Wings Random Box
 - **[NEW]** Golden Wings Random Box
+- **[REMOVE]** Oto-Fox Costume Random Box
+- **[NEW]** Long Winter Coat Set Random Box 
 #### Notice:
 - `Rudi Rowdy`:
   - Increases the damage against [Low-level monsters] by 15%.
@@ -29,3 +31,9 @@ hide_table_of_contents: false
   - Movement Speed: 21
   - Speed in Act5 maps: +3
   - Speed Booster Effect: There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends.
+- `Long Winter Coat`
+  - Movement speed is increased by 1.
+  - All defences are increased by 5%.
+- `Winter Hat`
+  - There is a 3% chance of causing Strong Freeze.
+  - Water resistance is increased by 5.
