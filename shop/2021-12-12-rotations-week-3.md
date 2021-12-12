@@ -37,3 +37,5 @@ hide_table_of_contents: false
 - `Winter Hat`
   - There is a 3% chance of causing Strong Freeze.
   - Water resistance is increased by 5.
+
+![](https://i.imgur.com/pbaUezK.png)
